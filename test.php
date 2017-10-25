@@ -8,3 +8,4 @@
 echo "hello hacktoberfest";
 
 echo "test1";
+echo "test2";
